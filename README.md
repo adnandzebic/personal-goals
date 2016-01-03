@@ -16,7 +16,7 @@ A public personal goals page that is accessible from mostly any device that I us
 
 ## Things I'll do This Week:
 
-- [x] Finish [The Man in the High Castle] TV series
+- [x] Finish [The Man in the High Castle](http://www.imdb.com/title/tt1740299/) TV series
 - [ ] Start [StrongLifts](http://stronglifts.com/)
 
 ### Things I'll Do in the Future:

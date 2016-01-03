@@ -18,8 +18,10 @@ A public personal goals page that is accessible from mostly any device that I us
 
 - [x] Finish [The Man in the High Castle](http://www.imdb.com/title/tt1740299/) TV series
 - [ ] Start [StrongLifts](http://stronglifts.com/)
+- [ ] Get cover letter and resume help from SJSU's Career Center
 
 ### Things I'll Do in the Future:
+- [ ] Review Calculus and EM for EE140 @ SJSU
 - [ ] Complete an algorithms course at [Coursera](https://www.coursera.org/) or CC
 - [ ] Finish reading/listening to Game of Thrones books
 

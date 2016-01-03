@@ -10,7 +10,7 @@ A public personal goals page that is accessible from mostly any device that I us
 4. Build a lot of things
 5. Prioritize my health
 
-# January 2, 2016
+# January 3, 2016
 
 ### This Week's Focus: Winter Break
 
@@ -20,6 +20,6 @@ A public personal goals page that is accessible from mostly any device that I us
 - [ ] Start [StrongLifts](http://stronglifts.com/)
 
 ### Things I'll Do in the Future:
-- [ ] Finish an algorithms course at [Coursera](https://www.coursera.org/) or CC
+- [ ] Complete an algorithms course at [Coursera](https://www.coursera.org/) or CC
 - [ ] Finish reading/listening to Game of Thrones books
 
